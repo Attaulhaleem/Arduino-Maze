@@ -1,4 +1,4 @@
-# aMaze
+# Arduino-Maze
 Mapping and solving of closed mazes using the Arduino platform.
 
 This project was made for the Junior Year Robotics Competition (JYRC) 2022 held in GIKI.
