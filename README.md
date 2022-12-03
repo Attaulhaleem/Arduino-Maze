@@ -7,4 +7,4 @@ Competition rules are explained in the JYRC statement.
 
 Ragnar is the robot which maps the maze and transmits data to Flokki via Bluetooth.
 
-Flokki receives the data, calculates, and traverses the shortest path.
+Flokki is the robot which receives the data, calculates, and traverses the shortest path.
