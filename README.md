@@ -1,9 +1,9 @@
 # Arduino-Maze
 Mapping and solving of closed mazes using the Arduino platform.
 
-This project was made for the Junior Year Robotics Competition (JYRC) 2022 held in Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI).
+## Details
 
-Competition rules are explained in the JYRC statement.
+This project was made for the Junior Year Robotics Competition (JYRC) 2022 held in Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI). The competition rules are explained [here](https://github.com/Attaulhaleem/Arduino-Maze/blob/main/doc/).
 
 Ragnar is the robot which maps the maze and transmits data to Flokki via Bluetooth.
 
